@@ -1,18 +1,33 @@
+<div align="center">
+
 # 👋 Hi, I'm Tsi2216
 
-### 💻 Full Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+TypeScript+Developer;Django+%7C+REST+API+Developer;Currently+Learning+Golang;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
 
-I build responsive web applications, REST APIs, and practical software solutions.
+<p>
+  <a href="https://github.com/Tsi2216">
+    <img src="https://img.shields.io/github/followers/Tsi2216?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Tsi2216?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-40-blue?style=for-the-badge" />
+  </a>
+</p>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 💻 Full Stack Developer
+I'm a **Full Stack Developer** interested in building useful, responsive,
+and practical software applications.
+
+- 💻 Full Stack Development
 - ⚛️ React & TypeScript
 - 🐍 Python & Django REST Framework
-- 🐹 Currently learning Go
-- 📱 Android development
+- 🐹 Currently learning Golang
+- 📱 Android Development
+- 🔌 REST API Development
 - 🌱 Always learning and building
 - 🇪🇹 Ethiopia
 
@@ -21,66 +36,71 @@ I build responsive web applications, REST APIs, and practical software solutions
 ## 🛠️ Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" />
+</p>
 
 ### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,go,nodejs" />
+</p>
 
 ### Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,git,github,vscode,postman" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🌦️ Weather Dashboard
-A weather dashboard with city search, forecasts, favorites, and dynamic weather conditions.
+
+A responsive weather dashboard with city search, forecasts,
+favorites, and dynamic weather conditions.
 
 **Tech:** JavaScript · HTML · CSS · Open-Meteo API
 
+---
+
 ### 🛒 E-Commerce API
-A REST API for managing products, users, authentication, and CRUD operations.
+
+A REST API for product management, authentication,
+CRUD operations, and API documentation.
 
 **Tech:** Python · Django · Django REST Framework
 
+---
+
 ### 📱 Local Market Price Tracker
+
 An Android application for tracking and comparing local market prices.
 
 **Tech:** Java · Android · Firebase
 
 ---
 
+### 🌍 Oromia Tourism & Culture
+
+A cultural tourism website showcasing the history,
+heritage, traditions, and cultural attractions of Oromia.
+
+**Tech:** React · TypeScript · Vite
+
+---
+
 ## 📚 Currently Learning
 
-🐹 **Golang & Backend Development**
-
-I'm currently expanding my backend skills by learning Go and building REST APIs.
-
----
-
-## 🎯 Goals
-
-- Build production-ready applications
-- Improve backend engineering skills
-- Become stronger with Go
-- Contribute to open-source projects
-- Continue growing as a software developer
-
----
-
-## 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tsi2216)
-
----
-
-⭐ Thanks for visiting my profile!
+```text
+🐹 Golang
+   ↓
+🔌 REST APIs
+   ↓
+🗄️ Databases
+   ↓
+☁️ Cloud & Deployment
+   ↓
+🚀 Production Backend Development
