@@ -1,0 +1,134 @@
+<svg width="1200" height="430" viewBox="0 0 1200 430"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#071A2B"/>
+      <stop offset="50%" stop-color="#101B3D"/>
+      <stop offset="100%" stop-color="#21143D"/>
+    </linearGradient>
+
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#36E4FF"/>
+      <stop offset="50%" stop-color="#7C5CFF"/>
+      <stop offset="100%" stop-color="#E65CFF"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="430" rx="28" fill="url(#bg)"/>
+
+  <!-- Subtle grid -->
+  <g opacity="0.08" stroke="#9EDFFF">
+    <path d="M0 70H1200"/>
+    <path d="M0 140H1200"/>
+    <path d="M0 210H1200"/>
+    <path d="M0 280H1200"/>
+    <path d="M0 350H1200"/>
+    <path d="M100 0V430"/>
+    <path d="M200 0V430"/>
+    <path d="M300 0V430"/>
+    <path d="M400 0V430"/>
+    <path d="M500 0V430"/>
+    <path d="M600 0V430"/>
+    <path d="M700 0V430"/>
+    <path d="M800 0V430"/>
+    <path d="M900 0V430"/>
+    <path d="M1000 0V430"/>
+    <path d="M1100 0V430"/>
+  </g>
+
+  <!-- Network -->
+  <g fill="none" stroke="url(#line)" stroke-width="2" opacity="0.65">
+
+    <path d="M100 100 L250 170 L390 90 L520 180"/>
+    <path d="M250 170 L350 310 L520 180"/>
+    <path d="M520 180 L670 100 L800 190"/>
+    <path d="M520 180 L650 310 L800 190"/>
+    <path d="M800 190 L940 100 L1090 160"/>
+    <path d="M800 190 L930 310 L1090 260"/>
+
+  </g>
+
+  <!-- Moving connection -->
+  <circle r="5" fill="#36E4FF" filter="url(#glow)">
+    <animateMotion
+      dur="5s"
+      repeatCount="indefinite"
+      path="M100 100 L250 170 L390 90 L520 180 L670 100 L800 190 L940 100 L1090 160"/>
+  </circle>
+
+  <!-- Nodes -->
+  <g fill="#0A2035" stroke="#36E4FF" stroke-width="2">
+
+    <circle cx="100" cy="100" r="7"/>
+    <circle cx="250" cy="170" r="8"/>
+    <circle cx="390" cy="90" r="7"/>
+    <circle cx="520" cy="180" r="12"/>
+    <circle cx="670" cy="100" r="7"/>
+    <circle cx="800" cy="190" r="12"/>
+    <circle cx="940" cy="100" r="7"/>
+    <circle cx="1090" cy="160" r="8"/>
+
+    <circle cx="350" cy="310" r="7"/>
+    <circle cx="650" cy="310" r="7"/>
+    <circle cx="930" cy="310" r="7"/>
+
+  </g>
+
+  <!-- Pulsing center -->
+  <circle cx="520" cy="180" r="20"
+          fill="none"
+          stroke="#7C5CFF"
+          stroke-width="2"
+          opacity="0.7">
+    <animate attributeName="r"
+             values="15;28;15"
+             dur="2.5s"
+             repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+             values="0.8;0;0.8"
+             dur="2.5s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Main identity -->
+  <text x="600" y="235"
+        text-anchor="middle"
+        fill="white"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="46"
+        font-weight="700"
+        letter-spacing="5">
+    TSION SHIMELIS
+  </text>
+
+  <text x="600" y="275"
+        text-anchor="middle"
+        fill="#7DEBFF"
+        font-family="monospace"
+        font-size="18"
+        letter-spacing="4">
+    FULL STACK DEVELOPER
+  </text>
+
+  <text x="600" y="315"
+        text-anchor="middle"
+        fill="#B9B6D8"
+        font-family="monospace"
+        font-size="13"
+        letter-spacing="2">
+    BUILD • CONNECT • EXPLORE
+  </text>
+
+</svg>
