@@ -1,39 +1,81 @@
 <div align="center">
 
-# TSION SHIMELIS
-
-### `FULL STACK DEVELOPER`
+<img src="./assets/hero.svg" width="100%" />
 
 <br>
 
-**I build interfaces, APIs, and digital products.**
+### `React` · `TypeScript` · `Django` · `Go`
 
 <br>
 
-`REACT` &nbsp; `TYPESCRIPT` &nbsp; `DJANGO` &nbsp; `GO`
-
-<br><br>
-
-[ **PORTFOLIO** ](https://tsion-shimelis.vercel.app/)
-&nbsp;&nbsp;
-[ **LINKEDIN** ](https://www.linkedin.com/in/tsion-shimelis-06338b320/)
-&nbsp;&nbsp;
-[ **GITHUB** ](https://github.com/Tsi2216)
+<a href="https://tsion-shimelis.vercel.app/">
+PORTFOLIO
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/tsion-shimelis-06338b320/">
+LINKEDIN
+</a>
+&nbsp;&nbsp;•&nbsp;&nbsp;
+<a href="https://github.com/Tsi2216">
+GITHUB
+</a>
 
 </div>
-
-<br>
 
 ---
 
 <div align="center">
 
-### `01` — CURRENTLY
+## `01` / CURRENTLY
+
+**GO** → **BACKEND** → **APIs** → **SYSTEMS**
 
 </div>
 
-```text
-learning       →  Go
-building       →  REST APIs
-exploring      →  backend engineering
-improving      →  system design
+---
+
+<div align="center">
+
+## `02` / STACK
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,python,django,go,postgres,firebase,git,github,vite" />
+
+</div>
+
+---
+
+<div align="center">
+
+## `03` / SELECTED WORK
+
+🌦️ **Weather Dashboard**  
+`JavaScript · API`
+
+🛒 **E-Commerce API**  
+`Django · DRF`
+
+🌍 **Oromia Tourism**  
+`React · TypeScript`
+
+📱 **Market Tracker**  
+`Android · Java · Firebase`
+
+</div>
+
+---
+
+<div align="center">
+
+## `04` / GITHUB
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tsi2216&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="48%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+`BUILD` &nbsp; `SHIP` &nbsp; `LEARN` &nbsp; `REPEAT`
+
+</div>
