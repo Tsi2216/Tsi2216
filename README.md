@@ -2,105 +2,111 @@
 
 # 👋 Hi, I'm Tsi2216
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+TypeScript+Developer;Django+%7C+REST+API+Developer;Currently+Learning+Golang;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+### Full Stack Developer
 
-<p>
-  <a href="https://github.com/Tsi2216">
-    <img src="https://img.shields.io/github/followers/Tsi2216?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/Tsi2216?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-40-blue?style=for-the-badge" />
-  </a>
-</p>
+**React · TypeScript · Django · Python · Go**
+
+I build practical web applications, REST APIs, and software solutions.
+
+<br>
+
+<a href="https://github.com/Tsi2216">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/tsion-shimelis-06338b320/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://tsion-shimelis.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=flat-square&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-I'm a **Full Stack Developer** interested in building useful, responsive,
-and practical software applications.
+I'm a Full Stack Developer focused on building useful and reliable
+applications.
 
-- 💻 Full Stack Development
-- ⚛️ React & TypeScript
-- 🐍 Python & Django REST Framework
-- 🐹 Currently learning Golang
-- 📱 Android Development
-- 🔌 REST API Development
-- 🌱 Always learning and building
-- 🇪🇹 Ethiopia
+I enjoy working across the stack — from creating responsive interfaces
+with React to developing REST APIs and backend systems.
+
+Currently exploring **Golang** and deeper backend engineering.
 
 ---
 
-## 🛠️ Tech Stack
+## What I Build
 
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,go,nodejs" />
-</p>
-
-### Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,supabase,git,github,vscode,postman" />
-</p>
+| Web Applications | REST APIs | Mobile Apps |
+|:---:|:---:|:---:|
+| React / TypeScript | Django / DRF | Android / Java |
+| Responsive UI | Authentication | Firebase |
+| Modern Frontend | CRUD & APIs | Local Data |
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
+
+**Frontend**
+
+`React` `TypeScript` `JavaScript` `HTML` `CSS` `Vite`
+
+**Backend**
+
+`Python` `Django` `Django REST Framework` `Go`
+
+**Database & Tools**
+
+`PostgreSQL` `MySQL` `Firebase` `Supabase` `Git` `GitHub`
+
+---
+
+## Selected Projects
 
 ### 🌦️ Weather Dashboard
 
-A responsive weather dashboard with city search, forecasts,
-favorites, and dynamic weather conditions.
+A weather application providing current conditions, forecasts,
+city search, favorites, and dynamic weather information.
 
-**Tech:** JavaScript · HTML · CSS · Open-Meteo API
+**JavaScript · HTML · CSS · Open-Meteo API**
 
 ---
 
 ### 🛒 E-Commerce API
 
-A REST API for product management, authentication,
-CRUD operations, and API documentation.
+A RESTful backend for products, authentication, CRUD operations,
+and API documentation.
 
-**Tech:** Python · Django · Django REST Framework
-
----
-
-### 📱 Local Market Price Tracker
-
-An Android application for tracking and comparing local market prices.
-
-**Tech:** Java · Android · Firebase
+**Python · Django · Django REST Framework**
 
 ---
 
 ### 🌍 Oromia Tourism & Culture
 
-A cultural tourism website showcasing the history,
-heritage, traditions, and cultural attractions of Oromia.
+A cultural tourism website presenting the heritage, traditions,
+history, and attractions of Oromia.
 
-**Tech:** React · TypeScript · Vite
+**React · TypeScript · Vite**
 
 ---
 
-## 📚 Currently Learning
+### 📱 Local Market Price Tracker
+
+An Android application designed to help users track and compare
+local market prices.
+
+**Java · Android · Firebase**
+
+---
+
+## Currently
 
 ```text
-🐹 Golang
-   ↓
-🔌 REST APIs
-   ↓
-🗄️ Databases
-   ↓
-☁️ Cloud & Deployment
-   ↓
-🚀 Production Backend Development
+Learning        → Go & Backend Engineering
+
+Building        → Full Stack Applications
+
+Improving       → REST APIs & System Design
+
+Exploring       → Cloud & Deployment
