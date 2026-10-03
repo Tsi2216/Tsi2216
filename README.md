@@ -4,7 +4,7 @@
 
 <br>
 
-### `React` · `TypeScript` · `Django` · `Go`
+### `React` · `TypeScript` · `Node.js` · `Django` · `Next.js`
 
 <br>
 
@@ -26,56 +26,22 @@ GITHUB
 
 <div align="center">
 
-## `01` / CURRENTLY
-
-**GO** → **BACKEND** → **APIs** → **SYSTEMS**
-
-</div>
-
----
-
-<div align="center">
-
-## `02` / STACK
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,python,django,go,postgres,firebase,git,github,vite" />
-
-</div>
-
----
-
-<div align="center">
-
-## `03` / SELECTED WORK
-
-🌦️ **Weather Dashboard**  
-`JavaScript · API`
-
-🛒 **E-Commerce API**  
-`Django · DRF`
-
-🌍 **Oromia Tourism**  
-`React · TypeScript`
-
-📱 **Market Tracker**  
-`Android · Java · Firebase`
-
-</div>
-
----
-
-<div align="center">
-
-## `04` / GITHUB
-
-<img src="https://github-readme-stats.vercel.app/api?username=Tsi2216&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="48%" />
-
-</div>
+## `01` / STACK
 
 <br>
 
+<img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,nextjs,python,django,postgres,firebase,git,github,vite&perline=12" height="32" />
+
+</div>
+
+---
+
 <div align="center">
 
-`BUILD` &nbsp; `SHIP` &nbsp; `LEARN` &nbsp; `REPEAT`
+## `02` / GITHUB
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Tsi2216&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="48%" />
 
 </div>
