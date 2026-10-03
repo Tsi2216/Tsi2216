@@ -2,9 +2,17 @@
 
 <img src="./assets/hero.svg" width="100%" />
 
-<br>
+<br><br>
 
-### `React` · `TypeScript` · `Node.js` · `Django` · `Next.js`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=61DAFB&center=true&vCenter=true&width=180&lines=React" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=3178C6&center=true&vCenter=true&width=220&lines=TypeScript" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=68A063&center=true&vCenter=true&width=180&lines=Node.js" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=0FA36B&center=true&vCenter=true&width=180&lines=Django" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=180&lines=Next.js" />
 
 <br>
 
